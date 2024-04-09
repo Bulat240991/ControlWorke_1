@@ -132,5 +132,10 @@ $RECYCLE.BIN/
 
 _NCrunch*
 
+#Файлы относящиеся к блоксхеме
 .$Блок схема.drawio.dtmp
 .$Блок схема.drawio.bkp
+
+#Файлы относящиеся к решению
+ControlWorke_1.sln
+ControlWorke_1.csproj
